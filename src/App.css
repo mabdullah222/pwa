@@ -1,0 +1,26 @@
+.selected{
+    background-color: rgba(148, 163, 184, 0.644);
+    height: 80px;
+    width: 80px;
+}
+#askbtn
+{
+    position: fixed;
+    top:500px;
+    margin-right: 10px;
+}
+
+#qans{
+    width: 300px;
+    margin: auto;
+}
+
+.signupform{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 500px;
+}
+.signupform>input{
+    background-color: aqua;
+}

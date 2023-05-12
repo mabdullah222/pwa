@@ -1,0 +1,1811 @@
+[
+ {
+   "name": "Apron Maxx 62.5 FS",
+   "activeIngredient": "Fludioxonil 25 g/l +Metalaxyl -M 37.5 g/l",
+   "crop": "Rice",
+   "pest": "Bakanae",
+   "dose": "400 ml/ 100kg seed",
+   "regType": "Form-17",
+   "category": "SeedCare"
+ },
+ {
+   "name": "CELEST 100 FS",
+   "activeIngredient": "Fludioxonil 100g/l",
+   "crop": "Potato",
+   "pest": "Rhizoctonia solani, Fusarium spp. & Helminthosporium solani",
+   "dose": "40 ml/100 Kg Seed",
+   "regType": "Form-17",
+   "category": "SeedCare"
+ },
+ {
+   "name": "CRUISER 350 FS ",
+   "activeIngredient": "Thiamethoxam 350 g/l",
+   "crop": "Corn",
+   "pest": "Shoot Fly",
+   "dose": "10 ml/Kg Seed ",
+   "regType": "Form-1",
+   "category": "SeedCare"
+ },
+ {
+   "name": "CRUISER 350 FS ",
+   "activeIngredient": "Thiamethoxam 350 g/l",
+   "crop": "Cotton",
+   "pest": "Jassid & thrips",
+   "dose": "6ml/KG Seed",
+   "regType": "Form-1",
+   "category": "SeedCare"
+ },
+ {
+   "name": "DIVIDEND STAR 036 FS  ",
+   "activeIngredient": "Difenoconazole 30 g/l + Cyproconazole 6.3 g/l",
+   "crop": "Wheat",
+   "pest": "Loose Smut",
+   "dose": "01 ml/Kg Seed",
+   "regType": "Form-1",
+   "category": "SeedCare"
+ },
+ {
+   "name": "DIVIDEND STAR 036 FS  ",
+   "activeIngredient": "Difenoconazole 30 g/l + Cyproconazole 6.3 g/l",
+   "crop": "Gram",
+   "pest": "Wilting",
+   "dose": "01 ml/Kg Seed",
+   "regType": "Form-1",
+   "category": "SeedCare"
+ },
+ {
+   "name": "DYNASTY CST 125FS",
+   "activeIngredient": "Azoxystrobin 75 g/l+ Fludioxonil 12.5 g/l+ Mefenoxam 37.5 g/l",
+   "crop": "Cotton",
+   "pest": "Seed & soil Born diseases",
+   "dose": "3 ml/Kg Seed",
+   "regType": "Form-17",
+   "category": "SeedCare"
+ },
+ {
+   "name": "Vibrance Duo 050FS ",
+   "activeIngredient": "Sedaxane 25 g/l + Fludioxonil 25 g/l",
+   "crop": "Wheat",
+   "pest": "Bunt , Loose smut ",
+   "dose": "200 ml/100 kg seed",
+   "regType": "Form-17",
+   "category": "SeedCare"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Cotton",
+   "pest": "Jassid",
+   "dose": "24 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Cotton",
+   "pest": "Mealy Bug",
+   "dose": "48gm/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Potato",
+   "pest": "Jassid",
+   "dose": "24 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Okra",
+   "pest": "Jassid",
+   "dose": "24 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Tobacco",
+   "pest": "Aphid  ",
+   "dose": "24 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Mango",
+   "pest": "Hopper",
+   "dose": "10 gm/ HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Rice",
+   "pest": "WBPH",
+   "dose": "24 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Citrus",
+   "pest": "Psylla and Leaf miner",
+   "dose": "10 gm/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "ACTARA 25 WG",
+   "activeIngredient": "Thiamethoxam 250g/l",
+   "crop": "Brinjal",
+   "pest": "Jassid",
+   "dose": "24 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "AMPLIGO 150 ZC",
+   "activeIngredient": "Lambda-Cyhalothrin 50 g/l+ Chlorantraniliprole 100 g/l",
+   "crop": "Cotton",
+   "pest": "PBW & ABW",
+   "dose": "160 ml/acre",
+   "regType": "Form-17",
+   "category": "Insecticide"
+ },
+ {
+   "name": "AMPLIGO 150 ZC",
+   "activeIngredient": "Lambda-Cyhalothrin 50 g/l+ Chlorantraniliprole 100 g/l",
+   "crop": "Cotton",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-17",
+   "category": "Insecticide"
+ },
+ {
+   "name": "CURACRON 500 EC ",
+   "activeIngredient": "Profenofos 500g/l",
+   "crop": "Cotton",
+   "pest": "PBW & Spotted bollworm",
+   "dose": "800-1000 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "CURACRON 500 EC ",
+   "activeIngredient": "Profenofos 500g/l",
+   "crop": "Cotton",
+   "pest": "Heliothis armigera Eggs",
+   "dose": "250 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "CURACRON 500 EC ",
+   "activeIngredient": "Profenofos 500g/l",
+   "crop": "Cotton",
+   "pest": "Mealy Bug",
+   "dose": "800 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "CURACRON 500 EC ",
+   "activeIngredient": "Profenofos 500g/l",
+   "crop": "Chili",
+   "pest": "Budmite",
+   "dose": "500-750 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "CURACRON 500 EC ",
+   "activeIngredient": "Profenofos 500g/l",
+   "crop": "Onion",
+   "pest": "Thrips",
+   "dose": "500 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Cotton",
+   "pest": "Bollworms",
+   "dose": "330 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Cotton",
+   "pest": "Jassid",
+   "dose": "330 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Cotton",
+   "pest": "Thrips",
+   "dose": "330 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Cotton",
+   "pest": "Whitfly (Adults)",
+   "dose": "330 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Rice",
+   "pest": "Stem Borer, Leaf folder",
+   "dose": "200 ml/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Mango",
+   "pest": "Hoppers",
+   "dose": "40 ml/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Okra",
+   "pest": "Fruit borer",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Brinjal",
+   "pest": "Fruit borer",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KARATE 2.5 EC ",
+   "activeIngredient": "Lambda-Cyhalothrin 25g/l",
+   "crop": "Gram ",
+   "pest": "Pod Borer",
+   "dose": "250 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Cotton",
+   "pest": "Armyworm",
+   "dose": "100 - 200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Cotton",
+   "pest": "Heliothis armigera",
+   "dose": "800 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Onion",
+   "pest": "Heliothis",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Potato",
+   "pest": "Heliothis armigera",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Tomato",
+   "pest": "Heliothis armigera",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Cabbage",
+   "pest": "Butterfly",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Cauliflower",
+   "pest": "DBM",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Apple",
+   "pest": "Codling  moth, Heliothis",
+   "dose": "100 ml/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Citrus",
+   "pest": "Leaf miner & thrips",
+   "dose": "40-80 ml/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Mung",
+   "pest": "Army worm",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MATCH 050 EC ",
+   "activeIngredient": "Lufenuron 50g/l",
+   "crop": "Barseem",
+   "pest": "Heliothis ,  Armyworm",
+   "dose": "200ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PLENUM 50 WG ",
+   "activeIngredient": "Pymetrozine 500g/l",
+   "crop": "Rice",
+   "pest": "Plant Hoppers",
+   "dose": "120 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Cotton",
+   "pest": "Jassid & Aphids",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Cotton",
+   "pest": "Mites",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Cotton",
+   "pest": "Thrips",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Cotton",
+   "pest": "Whitfly",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Cabbage",
+   "pest": "Aphids",
+   "dose": "100 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Cauliflower",
+   "pest": "Aphids",
+   "dose": "100 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Potato",
+   "pest": "Jassid & WF",
+   "dose": "100 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Okra",
+   "pest": "Jassid",
+   "dose": "100 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Brinjal",
+   "pest": "Whitfly,Jassids & Mites",
+   "dose": "100 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLO 500 SC   ",
+   "activeIngredient": "Diafenthiuron 500g/l",
+   "crop": "Chilies",
+   "pest": "Budmites",
+   "dose": "100 ml/hlw",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLYTRIN C 440 EC ",
+   "activeIngredient": "Cypermethrin 40g/l+ Profenofos 400g/l",
+   "crop": "Cotton",
+   "pest": "Spotted, PBW",
+   "dose": " 500-600 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLYTRIN C 440 EC ",
+   "activeIngredient": "Cypermethrin 40g/l+ Profenofos 400g/l",
+   "crop": "Gram ",
+   "pest": "Cutworm , Pod borer ",
+   "dose": "500 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLYTRIN C 440 EC ",
+   "activeIngredient": "Cypermethrin 40g/l+ Profenofos 400g/l",
+   "crop": "Mung",
+   "pest": "Pod borer ",
+   "dose": "500 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "POLYTRIN C 440 EC ",
+   "activeIngredient": "Cypermethrin 40g/l+ Profenofos 400g/l",
+   "crop": "Citrus",
+   "pest": "Leaf miner & Psylla",
+   "dose": "250 ml/HLW",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Cotton",
+   "pest": "Army worm",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Cotton",
+   "pest": "Helicoverpa armigera",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Cotton",
+   "pest": "Spotted bollworm",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Cauliflower",
+   "pest": "DBM",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Potato",
+   "pest": "Army worm",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Potato",
+   "pest": "Helicoverpa armigera",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Tomato",
+   "pest": "Helicoverpa armigera",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Okra",
+   "pest": "Spotted bollworm",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Okra",
+   "pest": "Helicoverpa armigera",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Brinjal",
+   "pest": "Fruit borer",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Brinjal",
+   "pest": "Stem borer",
+   "dose": "200 ml / acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "SOLVIGO 108 SC ",
+   "activeIngredient": "Abamectin 36g/l+ Thiamethoxam 72g/l",
+   "crop": "Cotton",
+   "pest": "Thrips",
+   "dose": "500 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PROCLAIM 019 EC ",
+   "activeIngredient": "Emamectine Benzoate 19g/l",
+   "crop": "Chilies",
+   "pest": "Thrips",
+   "dose": "300 ml/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VIRTAKO 0.6 GR       ",
+   "activeIngredient": "Thiamethoxam 40 g/l + Chlorantraniliprole 20 g/l",
+   "crop": "Rice",
+   "pest": "Stem borer ",
+   "dose": "04 Kg/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VIRTAKO 0.6 GR       ",
+   "activeIngredient": "Thiamethoxam 40 g/l + Chlorantraniliprole 20 g/l",
+   "crop": "Sugarcane",
+   "pest": "Borers",
+   "dose": "04 Kg/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VIRTAKO 0.6 GR       ",
+   "activeIngredient": "Thiamethoxam 40 g/l + Chlorantraniliprole 20 g/l",
+   "crop": "Corn",
+   "pest": "Borer",
+   "dose": "04 Kg/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VIRTAKO 40 WG ",
+   "activeIngredient": "Thiamethoxam 20g/l + Chlorantraniliprole 20g/l",
+   "crop": "Rice",
+   "pest": "Stem Borer, Leaf folder",
+   "dose": "40 gm/acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VIRTAKO 40 WG ",
+   "activeIngredient": "Thiamethoxam 20g/l + Chlorantraniliprole 20g/l",
+   "crop": "Corn",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VIRTAKO 40 WG ",
+   "activeIngredient": "Thiamethoxam 20g/l + Chlorantraniliprole 20g/l",
+   "crop": "Sugarcane",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VOLIAM FLEXI 300 SC",
+   "activeIngredient": "Thiamethoxam 200 g/l + Chlorantraniliprole 100 g/l",
+   "crop": "Tomato",
+   "pest": "Fruit borer (Heliothis)",
+   "dose": "80 ml/ acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VOLIAM FLEXI 300 SC",
+   "activeIngredient": "Thiamethoxam 200 g/l + Chlorantraniliprole 100 g/l",
+   "crop": "Brinjal",
+   "pest": "Fruit borer , Shoot borer",
+   "dose": "80 ml/ acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VOLIAM FLEXI 300 SC",
+   "activeIngredient": "Thiamethoxam 200 g/l + Chlorantraniliprole 100 g/l",
+   "crop": "Potato",
+   "pest": "Spodoptera, ABW",
+   "dose": "80 ml/ acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VOLIAM FLEXI 300 SC",
+   "activeIngredient": "Thiamethoxam 200 g/l + Chlorantraniliprole 100 g/l",
+   "crop": "Okra",
+   "pest": "ABW, SBW",
+   "dose": "80 ml/ acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "VOLIAM FLEXI 300 SC",
+   "activeIngredient": "Thiamethoxam 200 g/l + Chlorantraniliprole 100 g/l",
+   "crop": "Cabbage & Cauliflower",
+   "pest": "DBM",
+   "dose": "80 ml/ acre",
+   "regType": "Form-1",
+   "category": "Insecticide"
+ },
+ {
+   "name": "IMIDACLOPRID 20% SL ",
+   "activeIngredient": "IMIDACLOPRID 200g/l",
+   "crop": "Cotton",
+   "pest": "Jassids",
+   "dose": "100 ml/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "IMIDACLOPRID 20% SL ",
+   "activeIngredient": "IMIDACLOPRID 200g/l",
+   "crop": "Cotton",
+   "pest": "White fly & Thrips",
+   "dose": "250 ml/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "IMIDACLOPRID 20% SL ",
+   "activeIngredient": "IMIDACLOPRID 200g/l",
+   "crop": "Rice",
+   "pest": "Plant Hoppers",
+   "dose": "100 ml/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "KNOCKOUT 25% SP ",
+   "activeIngredient": "Nitenpyram 250 g/l",
+   "crop": "Cotton",
+   "pest": "Jassids",
+   "dose": "100 gm/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "MAJOR 60% WDG ",
+   "activeIngredient": "Nitenpyram + Pymetrozine      60% WDG",
+   "crop": "Cotton",
+   "pest": "White fly, Jassids & Black Aphids",
+   "dose": "60--100 gm/acre",
+   "regType": "Form-17",
+   "category": "Insecticide"
+ },
+ {
+   "name": "PYRIPROXYFIN 10.8 EC",
+   "activeIngredient": "PYRIPROXYFIN 10.8% EC ",
+   "crop": "Cotton",
+   "pest": "White Fly",
+   "dose": "500 ml/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "CARTAP HYDROCHLORIDE 4% GRANULE ",
+   "activeIngredient": "HYDROCHLORIDE 4% GRANULE",
+   "crop": "Rice",
+   "pest": "Borers",
+   "dose": "09 Kg/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "DUMEI 50% WG",
+   "activeIngredient": "Flonicamid 50% WG",
+   "crop": "Rice",
+   "pest": "Plant Hoppers",
+   "dose": " 48--60 gm/acre",
+   "regType": "Form-17",
+   "category": "Insecticide"
+ },
+ {
+   "name": "STATIC Spinosad ME",
+   "activeIngredient": "Spinosad + Methyl Eugenol",
+   "crop": "Mango, Guava, Apple, Pear, Peach, Orange, European plums, Apricots",
+   "pest": "Tephritid fruit flies, including those that respond to methyl eugenol: ,Bactrocera dorsalis (oriental fruit fly), Bactrocera carambolae (carambola fruit fly), Bactrocera papayae (Asian papaya fruit fly), Bactrocera zonata (peach fruit fly), Bactrocera invadens (Asian fruit fly), Bractrocera spp.",
+   "dose": "100 gram/Acre or 5-6 gram/Plant",
+   "regType": "Form-17",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Chlorpyrifos 40%EC",
+   "activeIngredient": "Chlorpyrifos 40%EC",
+   "crop": "Sugarcane",
+   "pest": "Borers, Termites, Bug",
+   "dose": "1000ml/Acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Buprofezin 25%WP",
+   "activeIngredient": "Buprofezin 25%WP",
+   "crop": "Cotton",
+   "pest": "WF, Jassid, Aphid",
+   "dose": "500gm/Acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Buprofezin 25%WP",
+   "activeIngredient": "Buprofezin 25%WP",
+   "crop": "Rice",
+   "pest": "Brown & Green Hopper",
+   "dose": "500gm/Acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Acephate 75 WP",
+   "activeIngredient": "Acephate 75 WP",
+   "crop": "Cotton",
+   "pest": "Jassid, Aphid, Whitefly & Thrips, ",
+   "dose": "300-400g/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Acephate 75 WP",
+   "activeIngredient": "Acephate 75 WP",
+   "crop": "Cotton",
+   "pest": "Pink Bollworm, Spotted Bollworm, American Bollworm & Army worm",
+   "dose": "400g/acre",
+   "regType": "Form-16",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Transform 50%WG",
+   "activeIngredient": "Sulfoxaflor 50% WG",
+   "crop": "Cotton",
+   "pest": "White Fly & Mealybug",
+   "dose": "90-100 gms/acre",
+   "regType": "Form-17",
+   "category": "Insecticide"
+ },
+ {
+   "name": "Transform 50%WG",
+   "activeIngredient": "Sulfoxaflor 50% WG",
+   "crop": "Cotton",
+   "pest": "Thrips",
+   "dose": "40 gms/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Transform 50%WG",
+   "activeIngredient": "Sulfoxaflor 50% WG",
+   "crop": "Tomato",
+   "pest": "Thrips, Plant bugs, Aphids,White Fly",
+   "dose": "100,90,30,100 gms/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "AMISTAR TOP 325 SC ",
+   "activeIngredient": "Azoxystrobin 200 g/l + Difenoconazole 125 g/l)",
+   "crop": "Rice",
+   "pest": "Blast",
+   "dose": "300 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "AMISTAR TOP 325 SC ",
+   "activeIngredient": "Azoxystrobin 200 g/l + Difenoconazole 125 g/l)",
+   "crop": "Rice",
+   "pest": "Brown Leaf Spot",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "AMISTAR TOP 325 SC ",
+   "activeIngredient": "Azoxystrobin 200 g/l + Difenoconazole 125 g/l)",
+   "crop": "Mango",
+   "pest": "Powdery mildew ",
+   "dose": "50 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "AMISTAR TOP 325 SC ",
+   "activeIngredient": "Azoxystrobin 200 g/l + Difenoconazole 125 g/l)",
+   "crop": "Mango",
+   "pest": "Anthracnose",
+   "dose": "50 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "AMISTAR TOP 325 SC ",
+   "activeIngredient": "Azoxystrobin 200 g/l + Difenoconazole 125 g/l)",
+   "crop": "Potato",
+   "pest": "Early Blight",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "MIRAVIS DUO 200 SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Tomato",
+   "pest": "Early Blight",
+   "dose": "200 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "MIRAVIS DUO 200 SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Potato",
+   "pest": "Early Blight",
+   "dose": "200 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "MIRAVIS DUO 200 SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Cucumber",
+   "pest": "Powdery mildew",
+   "dose": "100 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "MIRAVIS DUO 200 SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Melon",
+   "pest": "Powdery mildew",
+   "dose": "100 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "RIDOMIL GOLD MZ 68 WG ",
+   "activeIngredient": "Metalyxal -M 40 g/l+ Mancozeb 640 g/l",
+   "crop": "Potato",
+   "pest": "Late Blight",
+   "dose": "250 gm/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "RIDOMIL GOLD MZ 68 WG ",
+   "activeIngredient": "Metalyxal -M 40 g/l+ Mancozeb 640 g/l",
+   "crop": "Onion",
+   "pest": "Downy Mildew",
+   "dose": "250 gm/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "RIDOMIL GOLD MZ 68 WG ",
+   "activeIngredient": "Metalyxal -M 40 g/l+ Mancozeb 640 g/l",
+   "crop": "Tobacco",
+   "pest": "Downy Mildew",
+   "dose": "250 gm/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "RIDOMIL GOLD MZ 68 WG ",
+   "activeIngredient": "Metalyxal -M 40 g/l+ Mancozeb 640 g/l",
+   "crop": "Citrus",
+   "pest": "Gomossis",
+   "dose": "250 gm/ HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "RIDOMIL GOLD MZ 68 WG ",
+   "activeIngredient": "Metalyxal -M 40 g/l+ Mancozeb 640 g/l",
+   "crop": "Melon",
+   "pest": "Downy Mildew",
+   "dose": "250 gm/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "RIDOMIL GOLD MZ 68 WG ",
+   "activeIngredient": "Metalyxal -M 40 g/l+ Mancozeb 640 g/l",
+   "crop": "Cucumber",
+   "pest": "Downy Mildew",
+   "dose": "250 gm/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Potato",
+   "pest": "Late Blight",
+   "dose": "240 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Tomato",
+   "pest": "Late Blight ",
+   "dose": "240 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Cauliflower",
+   "pest": "Downy Mildew",
+   "dose": "240 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Chilies",
+   "pest": "Downy Mildew",
+   "dose": "240 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Onion",
+   "pest": "Downy Mildew",
+   "dose": "240 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Okra",
+   "pest": "Downy Mildew",
+   "dose": "240 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Melon",
+   "pest": "Downy mildew",
+   "dose": "200 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Cucumber",
+   "pest": "Downy mildew",
+   "dose": "200 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "REVUS 250 SC",
+   "activeIngredient": "Mandipropamid 250 g/l",
+   "crop": "Grapes",
+   "pest": "Downy Mildew",
+   "dose": "200 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Mango",
+   "pest": "Anthracnose",
+   "dose": "120-260 ml/100 Lit. water",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Citrus",
+   "pest": "Green mold",
+   "dose": "25-500 ml/100 lit. water",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Mango",
+   "pest": "Stem end rot",
+   "dose": "",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Apple",
+   "pest": "Blue mold, Gray mold",
+   "dose": "130-260 ml/100 lit. water",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Loquat",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Peer",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Apricot",
+   "pest": "Brown rot, gray mold",
+   "dose": "130 ml/100 lit. water",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Peach",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Plum",
+   "pest": "",
+   "dose": "",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Pomegratnate",
+   "pest": "Botrytis diplodia",
+   "dose": "130-260ml/100 lit. water",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Scholar 230 SC",
+   "activeIngredient": "Fludioxonil 230 g/l",
+   "crop": "Mango",
+   "pest": "Anthracnose",
+   "dose": "120-260 ml/100 Lit. water",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Rice",
+   "pest": "Blast",
+   "dose": "125 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Potato",
+   "pest": "Early & Late Blight",
+   "dose": "120 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Tomato",
+   "pest": "Early & Late Blight",
+   "dose": "50 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Gram ",
+   "pest": "Blight",
+   "dose": "120 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Cucumber",
+   "pest": "Powdrey mildew",
+   "dose": "200 ml/acre (200 ml/hlw)",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Cucumber",
+   "pest": "Downy mildew",
+   "dose": "200 ml/acre (200 ml/hlw)",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Mango",
+   "pest": "Anthracnose",
+   "dose": "30 ml /HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Mango",
+   "pest": "Powdery mildew",
+   "dose": "30 ml /HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Apple",
+   "pest": "Powdery mildew, ",
+   "dose": "30ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "SCORE 250EC",
+   "activeIngredient": "Difenoconazole 250 g/l",
+   "crop": "Citrus",
+   "pest": "withertip",
+   "dose": "30 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "THIOVIT JET 80% WG",
+   "activeIngredient": "Sulphur 800 g/l",
+   "crop": "Rice",
+   "pest": "Brown Leaf spot",
+   "dose": "1000 gm/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "THIOVIT JET 80% WG",
+   "activeIngredient": "Sulphur 800 g/l",
+   "crop": "Apple",
+   "pest": "Powdery mildew",
+   "dose": "1000 gm/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "THIOVIT JET 80% WG",
+   "activeIngredient": "Sulphur 800 g/l",
+   "crop": "Grapes",
+   "pest": "Powdery mildew",
+   "dose": "1000 gm/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "THIOVIT JET 80% WG",
+   "activeIngredient": "Sulphur 800 g/l",
+   "crop": "Cucumber",
+   "pest": "Powdery mildew",
+   "dose": "1000 gm/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "THIOVIT JET 80% WG",
+   "activeIngredient": "Sulphur 800 g/l",
+   "crop": "Melon",
+   "pest": "Powdery mildew",
+   "dose": "1000 gm/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "FOLIO GOLD 440 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Metalaxyl-M 40 g/l",
+   "crop": "Potato",
+   "pest": "Early & Late Blight",
+   "dose": "1000 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "FOLIO GOLD 440 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Metalaxyl-M 40 g/l",
+   "crop": "Onion",
+   "pest": "Downy Mildew",
+   "dose": "1000 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "FOLIO GOLD 440 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Metalaxyl-M 40 g/l",
+   "crop": "Cucumber",
+   "pest": "Downy Mildew",
+   "dose": "1000 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "FOLIO GOLD 440 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Metalaxyl-M 40 g/l",
+   "crop": "Melon",
+   "pest": "Downy Mildew",
+   "dose": "1000 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TILT 250 EC",
+   "activeIngredient": "Propiconazole 250 g/l",
+   "crop": "Wheat",
+   "pest": "Rust",
+   "dose": "200 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TILT 250 EC",
+   "activeIngredient": "Propiconazole 250 g/l",
+   "crop": "Rice",
+   "pest": "Leaf spot",
+   "dose": "80 ml/acre",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TILT 250 EC",
+   "activeIngredient": "Propiconazole 250 g/l",
+   "crop": "Mango",
+   "pest": "Powdery mildew",
+   "dose": "100 ml/HLW",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TOPAS 100 EC",
+   "activeIngredient": "Penconazole 100 g/l",
+   "crop": "Apple",
+   "pest": "Powdery mildew, ",
+   "dose": "50 ml/hlw",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TOPAS 100 EC",
+   "activeIngredient": "Penconazole 100 g/l",
+   "crop": "Mango",
+   "pest": "Powdery mildew, ",
+   "dose": "50 ml/hlw",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TOPAS 100 EC",
+   "activeIngredient": "Penconazole 100 g/l",
+   "crop": "Melon",
+   "pest": "Powdery mildew, ",
+   "dose": "50 ml/hlw",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "TOPAS 100 EC",
+   "activeIngredient": "Penconazole 100 g/l",
+   "crop": "Cucumber",
+   "pest": "Powdery mildew, ",
+   "dose": "50 ml/hlw",
+   "regType": "Form-1",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Miravis Duo 200SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Tomato",
+   "pest": "Early Blight",
+   "dose": "200 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Miravis Duo 200SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Potato",
+   "pest": "Early Blight",
+   "dose": "200 ml/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Miravis Duo 200SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Cucumber",
+   "pest": "Powdery mildew",
+   "dose": "100 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Miravis Duo 200SC",
+   "activeIngredient": "Pydiflumetofen 75 g/l+ Difenoconazole 125 g/l",
+   "crop": "Melon",
+   "pest": "Powdery mildew",
+   "dose": "100 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Orondis Opti 406 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Oxathiapiprolin 6 g/l",
+   "crop": "Tomato",
+   "pest": "Late Blight",
+   "dose": "450 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Orondis Opti 406 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Oxathiapiprolin 6 g/l",
+   "crop": "Melon",
+   "pest": "Downy mildew",
+   "dose": "400 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Orondis Opti 406 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Oxathiapiprolin 6 g/l",
+   "crop": "Water Melon",
+   "pest": "Downy mildew",
+   "dose": "400 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Orondis Opti 406 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Oxathiapiprolin 6 g/l",
+   "crop": "Cucumber",
+   "pest": "Downy mildew",
+   "dose": "400 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Orondis Opti 406 SC",
+   "activeIngredient": "Chlorothalonil 400 g/l+ Oxathiapiprolin 6 g/l",
+   "crop": "Pepper",
+   "pest": "Phytophthora sp.",
+   "dose": "400 -500 ml/HLW",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "Revus Start Pepite 430 WG",
+   "activeIngredient": "Mandipropamid 250 g/l+ Cymoxinal 180 g/l",
+   "crop": "Potato",
+   "pest": "Late Blight",
+   "dose": "250 gm/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "DRAGON 40% WP ",
+   "activeIngredient": "Chlorothalonil + Pyrimethanil ",
+   "crop": "Potato",
+   "pest": "Early & Late Blight",
+   "dose": "400--500 gm/acre",
+   "regType": "Form-17",
+   "category": "Fungicides"
+ },
+ {
+   "name": "COPPER OXYCHLORIDE 50 WP ",
+   "activeIngredient": "COPPER OXYCHLORIDE",
+   "crop": "Potato",
+   "pest": "Early & Late Blight",
+   "dose": "1000 gm/acre",
+   "regType": "Form-16",
+   "category": "Fungicides"
+ },
+ {
+   "name": "COPPER OXYCHLORIDE 50 WP ",
+   "activeIngredient": "COPPER OXYCHLORIDE",
+   "crop": "Tomato",
+   "pest": "Early & Late Blight",
+   "dose": "1000 gm/acre",
+   "regType": "Form-16",
+   "category": "Herbicide"
+ },
+ {
+   "name": "COPPER OXYCHLORIDE 50 WP ",
+   "activeIngredient": "COPPER OXYCHLORIDE",
+   "crop": "Chilies",
+   "pest": "Leaf Blight",
+   "dose": "500 gm/acre",
+   "regType": "Form-16",
+   "category": "Herbicide"
+ },
+ {
+   "name": "COPPER OXYCHLORIDE 50 WP ",
+   "activeIngredient": "COPPER OXYCHLORIDE",
+   "crop": "Cucurbits",
+   "pest": "Downy mildew",
+   "dose": "500 gm/acre",
+   "regType": "Form-16",
+   "category": "Herbicide"
+ },
+ {
+   "name": "APIRO FORTE 550.8 SC",
+   "activeIngredient": "Pyriftalid 366 g/l+ Bensulfuron-Methyl 184.8 g/l",
+   "crop": "Rice",
+   "pest": "Sedges, Grasses & BLW",
+   "dose": "160 ml/acre (7-10 days after Transplantation",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "AXIAL XL 050 EC",
+   "activeIngredient": "Pinoxaden 50g/l",
+   "crop": "Wheat",
+   "pest": "Grasses(Phalaris & Avena)",
+   "dose": "330 ml/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "DUAL GOLD 960 EC ",
+   "activeIngredient": "S-metolachlor 960 g/l",
+   "crop": "Cotton,Corn,Onion,Mung,Potato,Cauliflower, Sugarbeat, Peas,Sunflower,Okra",
+   "pest": "Grasses & BLW",
+   "dose": "800 ml/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "DUAL GOLD 960 EC ",
+   "activeIngredient": "S-metolachlor 960 g/l",
+   "crop": "SugarCane",
+   "pest": "Grasses & BLW",
+   "dose": "1000 ml/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "FUSILADE 125 EC ",
+   "activeIngredient": "Fluazifop-P-Butyl 125 g/l",
+   "crop": "Cotton",
+   "pest": "Grasses",
+   "dose": "800 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "FUSILADE 125 EC ",
+   "activeIngredient": "Fluazifop-P-Butyl 125 g/l",
+   "crop": "Soabean",
+   "pest": "Grasses",
+   "dose": "800 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "FUSILADE 125 EC ",
+   "activeIngredient": "Fluazifop-P-Butyl 125 g/l",
+   "crop": "Peanuts",
+   "pest": "Grasses",
+   "dose": "1250 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "GRAMOXONE 200SL",
+   "activeIngredient": "Paraquat 200 g/l",
+   "crop": "Non-Selective",
+   "pest": "All Grasses & BLW",
+   "dose": "1000-1500 ml/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "LOGRAN 75 WG",
+   "activeIngredient": "Triasulfuron 750 g/l",
+   "crop": "Wheat",
+   "pest": "Broad Leaf Weeds",
+   "dose": "16 gm/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "PRIMEXTRA GOLD 720 SC",
+   "activeIngredient": "S-metolachlor 400 g/l+ Atrazine 320 g/l",
+   "crop": "Corn",
+   "pest": "Pre to Cyperus,Grasses & BLW",
+   "dose": "800 acre ",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "RIFIT 500 EC",
+   "activeIngredient": "Pretilachlor 500 g/l",
+   "crop": "Rice TRP",
+   "pest": "Weeds",
+   "dose": "400-500 ml/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "TOPIK 15 WP",
+   "activeIngredient": "Clodinafop-propargyl  150 g/l",
+   "crop": "Wheat",
+   "pest": "Grasses(Phalaris & Avena)",
+   "dose": "120 gm/acre",
+   "regType": "Form-1",
+   "category": "Herbicide"
+ },
+ {
+   "name": "RICER 60 OD",
+   "activeIngredient": "Penoxsulam 10.2 g/l+ Cyhalofop-Butyl 51 g/l",
+   "crop": "Rice TPR & DSR",
+   "pest": "Leptocloha spp. & Grasses",
+   "dose": "1000 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "RICER 60 OD",
+   "activeIngredient": "Penoxsulam 10.2 g/l+ Cyhalofop-Butyl 51 g/l",
+   "crop": "Rice Nursery",
+   "pest": "Leptocloha spp. & Grasses",
+   "dose": "1000 mlacre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "ALLY MAX 28.6% SG",
+   "activeIngredient": "Metsulfuron Methyl  + Tribenuron Methyl",
+   "crop": "Wheat",
+   "pest": "Broad Leaf Weeds",
+   "dose": "14 gm/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "BROMOXYNIL + MCPA",
+   "activeIngredient": "BROMOXYNIL + MCPA",
+   "crop": "Wheat",
+   "pest": "Broad Leaf Weeds",
+   "dose": "500 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "GENGWEI 550 SC  ",
+   "activeIngredient": "Mesotrione + Atrazine 550 SC",
+   "crop": "Corn",
+   "pest": "Grasses & BLW",
+   "dose": "495--727.2 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "Metribuzin 70% WP",
+   "activeIngredient": "Metribuzin 70% WP",
+   "crop": "Wheat",
+   "pest": "Phalaris, Chenopodium murale & melilotus indica",
+   "dose": "80 gm/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "RICER 60 OD",
+   "activeIngredient": "Penoxsulam 10.2 g/l+ Cyhalofop-Butyl 51 g/l",
+   "crop": "Rice TPR & DSR",
+   "pest": "Leptocloha spp. & Grasses",
+   "dose": "1000 ml/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "RICER 60 OD",
+   "activeIngredient": "Penoxsulam 10.2 g/l+ Cyhalofop-Butyl 51 g/l",
+   "crop": "Rice Nursery",
+   "pest": "Leptocloha spp. & Grasses",
+   "dose": "1000 mlacre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "SULFOSULFURON 75% WG",
+   "activeIngredient": "SULFOSULFURON 75% WG",
+   "crop": "Wheat",
+   "pest": "Phalaris & Avena",
+   "dose": "13.5 gm/acre+ Adjuent",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "WINSTA 30% WP",
+   "activeIngredient": "Bispyribac Sodium + Bensulfuron Methyl 30% WP",
+   "crop": "Rice",
+   "pest": "Grasses & BLW",
+   "dose": "90g/acre",
+   "regType": "Form-17",
+   "category": "Herbicide"
+ },
+ {
+   "name": "Pendimethalin ",
+   "activeIngredient": "Pendimethalin ",
+   "crop": "Cotton",
+   "pest": "Broad leaf & Narrow leaf weeds",
+   "dose": "1-1.5lit/acre",
+   "regType": "Form-16",
+   "category": "Herbicide"
+ },
+ {
+   "name": "Pendimethalin ",
+   "activeIngredient": "Pendimethalin ",
+   "crop": "Corn",
+   "pest": "Broad leaf & Narrow leaf weeds",
+   "dose": "1-1.5lit/acre",
+   "regType": "Form-16",
+   "category": "Herbicide"
+ },
+ {
+   "name": "Pendimethalin ",
+   "activeIngredient": "Pendimethalin ",
+   "crop": "Wheat",
+   "pest": "Broad leaf & Narrow leaf weeds",
+   "dose": "1-1.5lit/acre",
+   "regType": "Form-16",
+   "category": "Herbicide"
+ }
+]

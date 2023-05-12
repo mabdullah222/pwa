@@ -1,0 +1,15 @@
+{
+    "short_name":"Kashtkaar App",
+    "name":"Kashtkaar App",
+    "icons":[
+        {
+            "src":"/images/logo.png",
+            "type":"image/png",
+            "sizes":"1024x1024"
+        }
+    ],
+    "start_url":"/community",
+    "display":"standalone",
+    "theme_color":"#000000",
+    "background_color":"#ffffff"
+}

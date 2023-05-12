@@ -1,0 +1,69 @@
+import React, { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
+import { languages } from '../components/Signup'
+import axios from 'axios'
+const You = () => {
+
+    const [data, setData] = useState({})
+    let handleInput=(e)=>{
+        setData({...data,[e.target.name]:e.target.value})
+        console.log(data)
+    }
+
+    let getUserData=async ()=>{
+        let response=await axios.get(`http://localhost:8000/api/get/${localStorage.getItem('user')}`)
+        setData(response.data)
+        console.log(response.data)
+    }
+
+    // Axios here for his original data.
+    useEffect(() => {
+        getUserData()
+    }, [])
+
+    const navigate = useNavigate();
+
+    const goBack = () => {
+        navigate("/dashboard");
+    }
+
+    const submitData = async (e) => {
+        e.preventDefault()
+        await axios.post('http://localhost:8000/api/update',data);
+        navigate('/dashboard')
+    }
+
+    return (
+        <div className='main w-full h-full flex flex-col justify-center items-center p-2'>
+            <button onClick={() => goBack()} className='absolute top-3 right-2 w-[4rem] bg-slate-400 p-2 rounded-lg hover:bg-slate-700 hover:text-white transition duration-300 ease-in-out'>Back</button>
+            <form className='box flex flex-col w-[40%] h-[40%] p-2 bg-slate-300 gap-4 rounded-lg'>
+                <div className='flex flex-col rounded-lg bg-white p-4 justify-between shadow-md box-border gap-2'>
+                    <label htmlFor="">Name</label>
+                    <input onChange={handleInput} type="text" value={data.name} placeholder='Enter name' name="name" className='border border-slate-400 rounded-lg p-2' />
+                </div>
+                <div className='flex flex-col rounded-lg bg-white p-4 justify-between shadow-md box-border gap-2'>
+                    <label htmlFor="">Username</label>
+                    <input onChange={handleInput} type="text" name='username' value={data.username} placeholder='Enter username' className='border border-slate-400 rounded-lg p-2' />
+                </div>
+                <div className='flex flex-col rounded-lg bg-white p-4 justify-between shadow-md box-border gap-2'>
+                    <label htmlFor="">Phone</label>
+                    <input onChange={handleInput} type="text" value={data.phone} name='phone' placeholder='Enter phone number' className='border border-slate-400 rounded-lg p-2' />
+                </div>
+                <div className='flex flex-col rounded-lg bg-white p-4 justify-between shadow-md box-border gap-2'>
+                    <h1>Language</h1>
+                <select class="form-control" id="language" name='language' value={data.language}>
+                    {
+                    languages.map(element=>
+                        {
+                        return <option value={element.code}>{element.name}</option>
+                        })
+                    }
+                </select>
+                </div>
+                <button onClick={submitData} className='w-[6rem] bg-green-500 p-2 rounded-lg hover:bg-green-800 hover:text-white transition duration-300 ease-in-out'>Change</button>
+            </form>
+        </div>
+    )
+}
+
+export default You

@@ -1,0 +1,1523 @@
+[
+    {
+        "crop": "Rice",
+        "name": "Bacterial Leaf Blight",
+        "desc": "Bacterial leaf blight is often first noticed in fields as brown areas about 3 to 4 feet in diameter. Leaf symptoms appear as irregular brown spots, often beginning on the leaf margins. Lesions initially have an irregular yellow halo and may appear watersoaked. Spots coalesce and cause a leaf blight and dark brown streaks develop on leaf petioles. Floral parts may also be blighted. A sticky amber-colored bacterial exudate, which is a diagnostic sign of the disease, may be present on leaves or observed flowing downward on petioles and flower stalks.",
+        "images": [
+            "https://ipm.ucanr.edu/PMG/IMAGES/X/D-CA-XCAM-FO.002banner.png",
+            "http://www.knowledgebank.irri.org/images/stories/bacterial-leaf-blight-3.JPG",
+            "http://www.knowledgebank.irri.org/images/stories/bacterial-leaf-blight-2.JPG"
+        ]
+    },
+    {
+        "crop": "Rice",
+        "name": "Rice Blast",
+        "desc": "Symptoms can be either lesions or spots. Their shape, colour and size vary depending on varietal resistance, environmental conditions and the age of the lesions. The pathogen infects and produces lesions on the following parts of the rice plant: leaf (leaf blast), leaf collar (collar blast), culm, culm nodes, panicle neck node (neck rot) and panicle (panicle blast).",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXvrpkd2tYbaF478NFyUSJcgEXk3nC3BKDeZzezZk51GA2aeWe0oiCw&s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRwOKTaMnNoa8N1MclUzmOfSR68xsyA4gxFq2rZhb_7WUMsMsKnrQ1jHUyYRTIz-sWJm7VIIJkeRrzLtP0",
+            "https://www.sydney.edu.au/dam/corporate/images/faculty-of-science/news-and-events/2020/march/rice-blast-usyd.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+        ]
+    },
+    {
+        "crop": "Rice",
+        "name": "Sheath Blight",
+        "desc": "Sheath blight is a fungal disease caused by Rhizoctonia solani. Infected leaves senesce or dry out and die more rapidly, young tillers can also be destroyed. As a result, the leaf area of the canopy can significantly be reduced by the disease. This reduction in leaf area, along with the diseased-induced senescence of leaves and young infected tillers are the primary causes of yield reduction.",
+        "images": [
+            "http://www.knowledgebank.irri.org/images/stories/sheath-blight-1.jpg",
+            "http://www.knowledgebank.irri.org/images/stories/sheath-blight-2.jpg"
+        ]
+    },
+    {
+        "crop": "Rice",
+        "name": "Brown Spot",
+        "desc": "Brown spot is a fungal disease that affects the leaves and causes small brown spots with yellow halos to form. The disease is caused by the fungus Cochliobolus miyabeanus.",
+        "images": [
+            "http://www.knowledgebank.irri.org/images/stories/brown-spot-3.jpg",
+            "http://www.knowledgebank.irri.org/images/stories/brown-spot-1.jpg",
+            "http://www.knowledgebank.irri.org/images/stories/brown-spot-4.jpg"
+        ]
+    },
+    {
+        "crop": "Potato",
+        "name": "Late Blight",
+        "desc": "Late blight of potato is identified by blackish/brown lesions on leaves and stems that may be small at first and appear water-soaked or have chlorotic borders but expand rapidly and the entire leaf becomes become necrotic. In humid conditions, P. infestans produces sporangia and sporangiophores on the surface of infected tissue and the resulting white sporulation can be seen at the margins of lesions on abaxial (lower) surfaces of leaves. As many lesions accumulate, the entire plant can be destroyed in a matter of days after the first lesions are observed if the appropriate fungicide applications are not used.",
+        "images": [
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ0AeOLMWz5KPd5NnY6xSK11MSHM-y5v8agtbdHkteGKRJN2m5rScl8Bcdr6CdaikcnjCpTPgVSs1V452k",
+            "https://www.agric.wa.gov.au/sites/gateway/files/Late%20blight%20leaf%20lesion.jpg",
+            "https://eorganic.org/sites/eorganic.info/files/u3/foliar_late_blight.jpg"
+        ]
+    },
+    {
+        "crop": "Potato",
+        "name": "Early Blight",
+        "desc": "Early blight is primarily a disease of stressed or senescing plants. Symptoms appear first on the oldest foliage. Affected leaves develop circular to angular dark brown lesions 0.12 to 0.16 inch (3\u00e2\u20ac\u201c4 mm) in diameter. Concentric rings often form in lesions to produce characteristic target-board effect. Severely infected leaves turn yellow and drop. Infected tubers show a brown, corky dry rot.",
+        "images": [
+            "https://www.ndsu.edu/agriculture/sites/default/files/2022-07/potato-early-blight-lesions.jpeg",
+            "https://cropscience.bayer.co.uk/media/102361687/early-blight-potatoes.jpg",
+            "https://www.ndsu.edu/agriculture/sites/default/files/2022-07/potato-early-blight-lesions5.jpeg"
+        ]
+    },
+    {
+        "crop": "Potato",
+        "name": "Blackleg",
+        "desc": "Blackleg is a disease of potatoes caused predominantly by the bacterium Pectobacterium atrosepticum. Occasionally other Pectobacterium species, or species of another bacterium called Dickeya, have also been found associated with blackleg in the UK. It is one of the earliest potato diseases to appear, you may see symptoms as early as June, especially in wet years.",
+        "images": [
+            "https://www.apsnet.org/edcenter/disandpath/prokaryote/Article%20Images/BlacklegPotato04.jpg",
+            "https://cropscience.bayer.co.uk/media/102361685/blackleg-on-potato-stem.jpg"
+        ]
+    },
+    {
+        "crop": "Potato",
+        "name": "Verticillium Wilt",
+        "desc": "Verticillium wilt becomes evident when lower leaves on the vine turn yellow and wither. Symptoms progress upward until the entire plant yellows and wilts. Vascular tissue of stems becomes a light brown, which is best observed near ground level. Some tubers from infected plants may develop a light brown discoloration in the vascular ring near the stem end. Wilt causes early senescence of plants in yield loss in heavily infested fields when susceptible varieties are grown",
+        "images": [
+            "https://pnwhandbooks.org/sites/pnwhandbooks/files/plant/images/potato-solanum-tuberosum-verticillium-wilt-potato-early-dying/099.jpg",
+            "https://static.agcanada.com/wp-content/uploads/2017/01/omafra_potato_vert_wilt500.jpg",
+            "https://c8.alamy.com/comp/AGC8AJ/wilt-verticillium-albo-atrum-necrosis-and-damage-on-potato-crop-plants-AGC8AJ.jpg"
+        ]
+    },
+    {
+        "crop": "Corn",
+        "name": "Northern Corn Leaf Blight",
+        "desc": "Typical symptoms of northern corn leaf blight are canoe-shaped lesions 1 inch to 6 inches long. The lesions are initially bordered by gray-green margins. They eventually turn tan colored and may contain dark areas of fungal sporulation. The length or size of lesions may vary with in different corn hybrids reactions with different resistance genes. Lesions begin on the lower leaves and then spread to upper leaves. Severe symptoms can progress rapidly, resulting in blighted leaves. The disease can be confused with symptoms of Goss's leaf blight on some hybrids, and perhaps with Stewarts wilt where this disease occurs.",
+        "images": [
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/northernleafblight2_600px.jpg?itok=bdY09BXo",
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/northernleafblight_600px.jpg?itok=7Nogx0Ew"
+        ]
+    },
+    {
+        "crop": "Corn",
+        "name": "Common Rust",
+        "desc": "The common rust fungus overwinters in the southern U.S. and Mexico. Urediniospores are blown north to the Midwestern Corn Belt in the summer and infection occurs in June or July. Young leaves are most susceptible to infection and pustules are more likely to form after corn silking. The disease favors cool temperatures (60 - 76 degrees F), heavy dews, about six hours of leaf wetness, and relative humidity greater than 95 percent. Temperatures above 80 degrees F suppress disease development and spread.",
+        "images": [
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/commonrust_600px.jpg?itok=gdTnN1eT",
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/commonrust2_600px.jpg?itok=L4HnHDhZ",
+            "https://ohioline.osu.edu/sites/ohioline/files/imce/Plant_Pathology/PLNTPTH-CER-02_Figure_1.png"
+        ]
+    },
+    {
+        "crop": "Corn",
+        "name": "Gray Leaf Spot",
+        "desc": "Gray leaf spot is typically the most serious foliar disease of corn in the U.S. corn belt, although other diseases can be more important in areas and years where weather conditions do not favor gray leaf spot. Gray leaf spot requires extended periods of high humidity and warm conditions. It can be confused with other foliar diseases of corn.",
+        "images": [
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/grayleafspot_600px.jpg?itok=5BjV1vQK",
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/grayleafspot3_600px.jpg?itok=3UE_mqCJ",
+            "https://extension.umn.edu/sites/extension.umn.edu/files/styles/large/public/grayleafspot4_600px.jpg?itok=q0OBWrR7"
+        ]
+    },
+    {
+        "crop": "Corn",
+        "name": "Stalk Rot",
+        "desc": "Stalk rots are one of the most significant set of diseases on corn.  These diseases are insidious, and often growers are unaware of their effects until harvest.  Low levels of stalk rot occur in nearly every corn field in Delaware, and severity and incidence varies from year to year.  Stalk rots can cause breakage and lodging of stalks and plant death.  In many cases the internal tissues of the stalk, or pith is compromised.  This publication will discuss general symptoms of these diseases, identification of stalk rotting pathogens, factors that increase stalk rots, management, and scouting recommendations.",
+        "images": [
+            "https://cropwatch.unl.edu/2016-CW-News/Images/Corn-Diseases/corn-early-death-stalk-crown-rot-f2.jpg",
+            "https://crops.extension.iastate.edu/files/resize/styles/icm_news_large/public/blog/images/img_2667-350x467.jpeg?itok=o4P4Olte"
+        ]
+    },
+    {
+        "crop": "Cotton",
+        "name": "Cotton leaf curl virus (CLCuV)",
+        "desc": "In Asia and Africa the major disease of cotton is caused by the Cotton leaf curl geminivirus (CLCuV). Leaves of infected cotton curl upward and bear leaf-like enations on the underside along with vein thickening. Plants infected early in the season are stunted and yield is reduced drastically. (A. Nadeem and Z. Xiong, University of Arizona) This virus devastated the Pakistan cotton industry in early 1990s where it caused an estimated yield reduction of 30-35%.",
+        "images": [
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTBqK_Ek0XNS6IWIAtluRZ5R6bBTiMvMDspRpyJEQWO6GU6eRWyk_AP_7Waw6pjrbcCabp-AOBpKqWeTQk",
+            "https://plantwiseplusknowledgebank.org/cms/asset/d04f0e69-3942-409a-9404-40b702e620b7/d5c539fb-7ea2-4e8f-a70b-4bbd525f21bd.jpg",
+            "https://alchetron.com/cdn/cotton-leaf-curl-virus-24de247c-1696-4214-9e50-f220103eb2f-resize-750.jpeg"
+        ]
+    },
+    {
+        "crop": "Cotton",
+        "name": "Fusarium wilt",
+        "desc": "Fusarium can cause severe symptoms in susceptible cotton varieties. These include a general wilt, which is especially evident on warm days, and yellowing and necrosis of lower leaf margins. The vascular system of infected plants is discolored brown in affected portions of the tissue. This is most apparent in the lower stem and upper taproot. The discoloration starts in the taproot, spreads into the stem, and is generally continuous in contrast to the speckling nature of the discoloration in plants affected by Verticillium wilt. ",
+        "images": [
+            "https://content.peat-cloud.com/w400/fusarium-wilt-cotton-1587715998.jpg",
+            "https://scx2.b-cdn.net/gfx/news/2021/fusarium-wilt-of-cotto.jpg"
+        ]
+    },
+    {
+        "crop": "Cotton",
+        "name": "Verticillium wilt",
+        "desc": "Verticillium wilt becomes evident when lower leaves on the vine turn yellow and wither. Symptoms progress upward until the entire plant yellows and wilts. Vascular tissue of stems becomes a light brown, which is best observed near ground level. Some tubers from infected plants may develop a light brown discoloration in the vascular ring near the stem end. Wilt causes early senescence of plants in yield loss in heavily infested fields when susceptible varieties are grown",
+        "images": [
+            "https://www.dpi.nsw.gov.au/__data/assets/image/0008/725489/Cotton-plant-showing-symptoms-of-Verticillium-wilt.jpg",
+            "https://news.utcrops.com/wp-content/uploads/2019/07/12490.jpeg"
+        ]
+    },
+    {
+        "crop": "Cotton",
+        "name": "Bacterial blight",
+        "desc": "Bacterial blight infections can affect any above-ground portions of the plant and at any point of plant development. Lesions associated with Xanthamonas begin as an angular leaf spot with a red to brown border. Tissues surrounding lesions may also become yellow, giving the appearance of a 'halo' surrounding the lesion. The angular appearance of lesions is due to restriction of the lesion by fine veins of the cotton leaf, and bacteria may spread along the leaf veins causing blackened lesions along major veins.",
+        "images": [
+            "https://content.peat-cloud.com/w400/bacterial-blight-of-cotton-1.jpg",
+            "https://content.peat-cloud.com/w400/bacterial-blight-of-cotton-cotton-1576497194.jpg"
+        ]
+    },
+    {
+        "crop": "Wheat",
+        "name": "Wheat rust",
+        "desc": "Wheat rust is a fungal disease that can affect all above-ground parts of the wheat plant, including the leaves, stems, and grains. Symptoms of the disease include orange, yellow, or brown pustules on the leaves and stems, which can cause premature leaf drop and reduced grain yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Wheat",
+        "name": "Fusarium head blight",
+        "desc": "Fusarium head blight is a fungal disease that affects wheat kernels during flowering, resulting in shriveled, discolored kernels that can reduce grain yield and quality. Symptoms include bleached or brownish spikelets and a pinkish mold growth on the kernels.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Wheat",
+        "name": "Powdery mildew",
+        "desc": "Powdery mildew is a fungal disease that can affect all above-ground parts of the wheat plant, including the leaves, stems, and spikes. Symptoms include a white or grayish powdery growth on the leaves and spikes, which can lead to reduced grain yield and quality.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Wheat",
+        "name": "Stagonospora nodorum blotch",
+        "desc": "Stagonospora nodorum blotch is a fungal disease that affects wheat leaves, stems, and spikes. Symptoms include brownish-black lesions with a yellow halo on the leaves and spikes, which can cause premature leaf drop and reduced grain yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Gram",
+        "name": "Ascochyta blight",
+        "desc": "Ascochyta blight is a fungal disease that affects gram leaves, stems, and pods. Symptoms include dark brown to black spots on the leaves and pods, which can cause premature leaf drop and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Gram",
+        "name": "Fusarium wilt",
+        "desc": "Fusarium wilt is a fungal disease that affects gram plants, causing wilted leaves and stunted growth. Symptoms include a yellowing of the lower leaves, followed by browning and wilting of the entire plant.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Gram",
+        "name": "Chickpea stunt disease",
+        "desc": "Chickpea stunt disease is a viral disease that affects gram plants, causing yellowing and stunted growth. The disease is transmitted by the beet leafhopper.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Gram",
+        "name": "Botrytis gray mold",
+        "desc": "Botrytis gray mold is a fungal disease that affects gram pods and seeds, causing grayish-brown mold growth and rot. The disease is favored by cool, moist conditions and can cause significant yield loss.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Okra",
+        "name": "Yellow vein mosaic virus",
+        "desc": "Yellow vein mosaic virus (YVMV) is a serious disease that affects the yield and quality of okra. It causes yellowing of the leaves and mottling on the veins, which eventually results in stunted growth and reduced yields. The virus is transmitted by whiteflies and can be controlled through proper management practices.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Okra",
+        "name": "Fusarium wilt",
+        "desc": "Fusarium wilt is a fungal disease that affects okra plants, causing yellowing of the leaves, wilting, and eventual death. The fungus infects the roots and spreads to the stem and leaves, causing severe damage. The disease can be managed through crop rotation, use of disease-resistant varieties, and soil sterilization.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Okra",
+        "name": "Powdery mildew",
+        "desc": "Powdery mildew is a common fungal disease that affects okra plants, causing a white powdery coating on the leaves. The disease can cause reduced yield and quality of the crop. It can be controlled by proper management practices such as removing infected plant parts, using fungicides, and avoiding overcrowding of plants.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Okra",
+        "name": "Root-knot nematodes",
+        "desc": "Root-knot nematodes are parasitic worms that infect the roots of okra plants, causing swelling and deformation. The disease can cause stunted growth and reduced yields. It can be managed by using resistant varieties, crop rotation, and soil fumigation.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tobacco",
+        "name": "Tobacco mosaic virus",
+        "desc": "Tobacco mosaic virus (TMV) is a viral disease that affects tobacco plants, causing mottling and yellowing of the leaves, stunted growth, and reduced yields. The virus can persist in tobacco products and can be transmitted through direct contact or mechanical means. It can be managed by using disease-free seeds, crop rotation, and controlling the spread of the virus.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tobacco",
+        "name": "Black shank",
+        "desc": "Black shank is a fungal disease that affects tobacco plants, causing blackening of the stems, wilting, and eventual death. The disease can be spread through infected soil, water, and plant debris. It can be controlled by using resistant varieties, crop rotation, and fungicides.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tobacco",
+        "name": "Blue mold",
+        "desc": "Blue mold is a fungal disease that affects tobacco plants, causing water-soaked spots on the leaves, yellowing, and eventual death. The disease can be spread through infected soil, water, and plant debris. It can be managed through proper management practices such as crop rotation, use of resistant varieties, and fungicides.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tobacco",
+        "name": "Bacterial wilt",
+        "desc": "Bacterial wilt is a bacterial disease that affects tobacco plants, causing wilting and eventual death. The disease can be spread through infected soil, water, and plant debris. It can be managed by using disease-free seeds, crop rotation, and controlling the spread of the bacteria.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mango",
+        "name": "Anthracnose",
+        "desc": "A fungal disease that causes dark, sunken lesions on mango fruits, as well as leaf spots and stem cankers. It can lead to fruit drop and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mango",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that appears as a white powdery coating on leaves, stems, and fruit. It can cause stunted growth, distorted leaves, and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mango",
+        "name": "Dieback",
+        "desc": "A fungal disease that causes wilting, drying, and death of leaves and branches. It can also cause cankers on the trunk, which can eventually lead to the death of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mango",
+        "name": "Fruit fly",
+        "desc": "A pest that attacks the fruit of mango trees, causing it to rot and drop prematurely. It can lead to reduced yield and economic losses for farmers.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Citrus",
+        "name": "Citrus canker",
+        "desc": "A bacterial disease that causes raised, corky lesions on leaves, stems, and fruit. It can cause defoliation, fruit drop, and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Citrus",
+        "name": "Greening disease",
+        "desc": "A bacterial disease that affects the phloem of citrus trees, causing stunted growth, yellowing of leaves, and reduced yield. It can eventually lead to the death of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Citrus",
+        "name": "Black spot",
+        "desc": "A fungal disease that causes circular black lesions on leaves and fruit. It can cause defoliation, fruit drop, and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Citrus",
+        "name": "Phytophthora foot rot",
+        "desc": "A fungal disease that affects the roots and lower trunk of citrus trees, causing wilting, yellowing, and death of the tree. It can be exacerbated by poor drainage and over-irrigation.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Brinjal",
+        "name": "Bacterial Wilt",
+        "desc": "Bacterial wilt is a common and serious disease of brinjal. It is caused by the bacterium Ralstonia solanacearum which infects the vascular system of the plant. The symptoms include wilting of leaves and stems, yellowing of leaves and eventually plant death.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Brinjal",
+        "name": "Fruit and Shoot Borer",
+        "desc": "Fruit and shoot borer is a common and serious pest of brinjal. The larvae of the pest bore into the shoots and fruits of the plant. The symptoms include wilting of the plant, holes in the fruit and frass on the surface of the fruit.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Brinjal",
+        "name": "Leaf Spot",
+        "desc": "Leaf spot is a fungal disease of brinjal. The symptoms include circular spots on the leaves which turn yellow and then brown. The spots may also have a yellow halo around them.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Brinjal",
+        "name": "Powdery Mildew",
+        "desc": "Powdery mildew is a common fungal disease of brinjal. The symptoms include white powdery growth on the leaves and stems of the plant. The leaves may also curl and distort.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chili",
+        "name": "Anthracnose",
+        "desc": "Anthracnose is a fungal disease of chili. The symptoms include circular lesions on the leaves and fruits of the plant which turn brown and sunken. The fruits may also have small black spots on them.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chili",
+        "name": "Bacterial Leaf Spot",
+        "desc": "Bacterial leaf spot is a common disease of chili. The symptoms include water-soaked lesions on the leaves which turn brown and necrotic. The leaves may also curl and distort.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chili",
+        "name": "Phytophthora Blight",
+        "desc": "Phytophthora blight is a serious disease of chili. The symptoms include wilting of the plant, brown lesions on the stem, and blackened roots. The fruits may also rot.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chili",
+        "name": "Leaf Curl Virus",
+        "desc": "Leaf curl virus is a common disease of chili. The symptoms include curling of the leaves, stunted growth of the plant, and reduced yield. The fruits may also be small and deformed.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tomato",
+        "name": "Early Blight",
+        "desc": "A fungal disease that causes brown spots on leaves, stems and fruit. Leads to defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tomato",
+        "name": "Late Blight",
+        "desc": "A fungal disease that causes water-soaked lesions on leaves and stems. Can rapidly destroy entire plantings in cool, wet weather.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tomato",
+        "name": "Tomato Yellow Leaf Curl Virus",
+        "desc": "A viral disease that causes yellowing and curling of leaves, stunting and reduced yield. Transmitted by whiteflies.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Tomato",
+        "name": "Bacterial Wilt",
+        "desc": "A bacterial disease that causes sudden wilting and collapse of entire plants. Can survive in soil for several years.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cabbage",
+        "name": "Black Rot",
+        "desc": "Black Rot is a serious disease that attacks the cabbage plant. It is caused by a bacterium and can lead to wilting, yellowing of the leaves, and rotting of the stem. Infected plants should be removed immediately to prevent the spread of the disease.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cabbage",
+        "name": "Clubroot",
+        "desc": "Clubroot is a fungal disease that affects cabbage plants. It causes the roots to become swollen and deformed, which can lead to stunted growth and yellowing of the leaves. The disease is soil-borne and can be prevented by maintaining good soil health and using disease-resistant varieties.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cabbage",
+        "name": "Fusarium Yellows",
+        "desc": "Fusarium Yellows is a fungal disease that affects the leaves of the cabbage plant. It causes yellowing and wilting of the leaves, and can lead to stunted growth and poor yields. The disease is soil-borne and can be prevented by using disease-resistant varieties and maintaining good soil health.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cabbage",
+        "name": "Blackleg",
+        "desc": "Blackleg is a bacterial disease that affects the cabbage plant. It causes the stems to rot, which can lead to wilting and death of the plant. The disease is soil-borne and can be prevented by using disease-resistant varieties and maintaining good soil health.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cauliflower",
+        "name": "Clubroot",
+        "desc": "Clubroot is a fungal disease that affects cauliflower plants. It causes the roots to become swollen and deformed, which can lead to stunted growth and yellowing of the leaves. The disease is soil-borne and can be prevented by maintaining good soil health and using disease-resistant varieties.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cauliflower",
+        "name": "Downy Mildew",
+        "desc": "Downy Mildew is a fungal disease that affects the leaves of cauliflower plants. It causes yellowing and wilting of the leaves, and can lead to poor yields. The disease is favored by wet weather and can be prevented by maintaining good air circulation and using disease-resistant varieties.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cauliflower",
+        "name": "Leaf Spot",
+        "desc": "Leaf Spot is a fungal disease that affects the leaves of the cauliflower plant. It causes circular spots on the leaves, which can turn brown and cause the leaves to wither. The disease is favored by wet weather and can be prevented by maintaining good air circulation and using disease-resistant varieties.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cauliflower",
+        "name": "Black Rot",
+        "desc": "Black Rot is a serious disease that attacks the cauliflower plant. It is caused by a bacterium and can lead to wilting, yellowing of the leaves, and rotting of the stem. Infected plants should be removed immediately to prevent the spread of the disease.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apple",
+        "name": "Apple Scab",
+        "desc": "A fungal disease that causes dark, scabby lesions on leaves, fruit, and twigs of apple trees. The disease can reduce fruit quality and cause premature fruit drop.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apple",
+        "name": "Fire Blight",
+        "desc": "A bacterial disease that can kill entire apple trees in a matter of days. Symptoms include wilting, blackened leaves and stems, and burnt-looking blossoms.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apple",
+        "name": "Cedar-Apple Rust",
+        "desc": "A fungal disease that requires both apple trees and cedar trees to complete its life cycle. Symptoms include yellow spots on leaves, galls on twigs, and orange, gelatinous spore masses on fruit.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apple",
+        "name": "Powdery Mildew",
+        "desc": "A fungal disease that can affect all parts of the apple tree. Symptoms include white powdery growth on leaves, fruit, and twigs, as well as distorted growth and reduced fruit quality.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Barseem",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that forms a white powdery coating on the leaves and stems, leading to reduced plant growth and yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Barseem",
+        "name": "Yellow mosaic virus",
+        "desc": "A viral disease that causes yellowing of the leaves, stunted growth, and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Barseem",
+        "name": "Root rot",
+        "desc": "A fungal disease that causes the roots to rot and decay, leading to wilting, yellowing, and eventual death of the plant.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Barseem",
+        "name": "Fusarium wilt",
+        "desc": "A fungal disease that causes wilting, yellowing, and eventual death of the plant, often accompanied by brown streaks on the stem.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chilies",
+        "name": "Anthracnose",
+        "desc": "A fungal disease that causes dark, sunken lesions on the fruit and leaves, leading to reduced yield and quality.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chilies",
+        "name": "Bacterial wilt",
+        "desc": "A bacterial disease that causes wilting, yellowing, and death of the plant, often accompanied by a foul odor from the roots.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chilies",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that forms a white powdery coating on the leaves and stems, leading to reduced plant growth and yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Chilies",
+        "name": "Leaf curl virus",
+        "desc": "A viral disease that causes curling, distortion, and stunting of the leaves, often accompanied by reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarcane",
+        "name": "Red rot",
+        "desc": "Red rot is a fungal disease that attacks the sugarcane stems and causes severe damage to the plant. The disease is characterized by red-colored lesions on the stems, which eventually turn into black-colored structures called 'chlamydospores'.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarcane",
+        "name": "Smut",
+        "desc": "Smut is a fungal disease that affects the sugarcane inflorescences and causes a reduction in sugar content. The disease is characterized by the formation of black-colored spores on the inflorescences, which eventually burst and release more spores into the surrounding area.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarcane",
+        "name": "Leaf scald",
+        "desc": "Leaf scald is a bacterial disease that affects the sugarcane leaves and causes severe damage to the plant. The disease is characterized by the appearance of yellow streaks on the leaves, which eventually turn brown and wither away.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarcane",
+        "name": "Grassy shoot",
+        "desc": "Grassy shoot is a viral disease that affects the sugarcane plants and causes stunting, dwarfing, and tillering. The disease is transmitted by the sugarcane aphid and is characterized by the appearance of numerous small shoots from the basal portion of the stem.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Guava",
+        "name": "Anthracnose",
+        "desc": "Anthracnose is a fungal disease that affects the guava fruit and causes a reduction in fruit quality. The disease is characterized by the appearance of sunken black spots on the fruit, which eventually enlarge and coalesce.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Guava",
+        "name": "Guava rust",
+        "desc": "Guava rust is a fungal disease that affects the guava leaves and causes defoliation. The disease is characterized by the appearance of yellow spots on the leaves, which eventually turn into rusty brown-colored pustules on the undersides of the leaves.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Guava",
+        "name": "Fruit fly",
+        "desc": "Fruit fly is a common pest of guava and causes damage to the fruit by laying eggs inside it. The larvae hatch and feed on the fruit pulp, causing it to rot and drop prematurely from the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Guava",
+        "name": "Nematodes",
+        "desc": "Nematodes are microscopic worms that feed on the roots of guava plants and cause stunting, wilting, and reduced fruit yields. The nematodes damage the root system, making it difficult for the plant to take up water and nutrients.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pear",
+        "name": "Fire blight",
+        "desc": "A bacterial disease that causes blight on blossoms, fruit, leaves, and branches, resulting in cankers, dieback, and in severe cases, death of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pear",
+        "name": "Pear scab",
+        "desc": "A fungal disease that causes dark, scabby lesions on the leaves and fruit of the pear tree, leading to reduced fruit quality and yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pear",
+        "name": "Pear rust",
+        "desc": "A fungal disease that causes yellow-orange spots on the leaves of the pear tree, leading to defoliation and reduced fruit yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pear",
+        "name": "Pear decline",
+        "desc": "A complex disease caused by a combination of environmental stressors and root-infecting pathogens that leads to a decline in tree health and productivity over time.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peach",
+        "name": "Peach leaf curl",
+        "desc": "A fungal disease that causes the leaves of the peach tree to become distorted, curled, and discolored, leading to reduced photosynthesis and fruit yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peach",
+        "name": "Brown rot",
+        "desc": "A fungal disease that causes brown spots to develop on the fruit of the peach tree, leading to premature ripening and decay.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peach",
+        "name": "Peach mosaic",
+        "desc": "A viral disease that causes a mottled pattern of light and dark green on the leaves of the peach tree, leading to reduced growth and yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peach",
+        "name": "Peach yellows",
+        "desc": "A bacterial disease that causes the peach tree to exhibit yellowing and dwarfing of the leaves, leading to reduced fruit yield and tree death.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "orange",
+        "name": "Citrus greening",
+        "desc": "Citrus greening is a bacterial disease that affects the phloem of citrus trees, ultimately leading to the death of the tree. Symptoms include yellow shoots, mottled leaves, and misshapen, bitter-tasting fruit.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "orange",
+        "name": "Citrus canker",
+        "desc": "Citrus canker is a bacterial disease that affects the leaves, twigs, and fruit of citrus trees. It causes lesions on the leaves and fruit and can cause premature fruit drop. Severe infections can cause defoliation and death of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "orange",
+        "name": "Brown rot",
+        "desc": "Brown rot is a fungal disease that affects the fruit of citrus trees. It causes the fruit to rot and turn brown, with the fungus spreading rapidly from fruit to fruit. In severe cases, the fungus can also infect the twigs and branches of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "orange",
+        "name": "Melanose",
+        "desc": "Melanose is a fungal disease that affects the leaves, twigs, and fruit of citrus trees. It causes lesions on the leaves and fruit that are brown and raised. The fruit may also have black, sunken spots. Severe infections can cause defoliation and death of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "european plums",
+        "name": "Black knot",
+        "desc": "Black knot is a fungal disease that affects the branches of plum trees. It causes the branches to develop dark, swollen knots that can eventually girdle and kill the branch. Severe infections can lead to the death of the entire tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "european plums",
+        "name": "Plum pocket",
+        "desc": "Plum pocket is a fungal disease that affects the fruit of plum trees. It causes the fruit to become deformed and swollen, with a spongy texture. The fruit may also turn brown and drop prematurely from the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "european plums",
+        "name": "Cytospora canker",
+        "desc": "Cytospora canker is a fungal disease that affects the branches and trunks of plum trees. It causes the bark to crack and ooze, with a brown or black discoloration beneath. Infected branches may die back, and the entire tree may die over time.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "european plums",
+        "name": "Brown rot",
+        "desc": "Brown rot is a fungal disease that affects the fruit of plum trees. It causes the fruit to rot and turn brown, with the fungus spreading rapidly from fruit to fruit. In severe cases, the fungus can also infect the twigs and branches of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apricots",
+        "name": "Brown rot",
+        "desc": "Brown rot is a fungal disease that affects stone fruits such as apricots. Infected fruit becomes covered in brown, powdery spores and can rot quickly. The fungus can spread rapidly, especially in warm, humid conditions, and can infect fruit at any stage of growth.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apricots",
+        "name": "Shot hole disease",
+        "desc": "Shot hole disease is a bacterial infection that affects apricot trees. The disease causes small holes in leaves and can also affect fruit. Infected leaves may drop prematurely, and fruit may be misshapen or discolored. The bacteria can spread rapidly in wet weather conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apricots",
+        "name": "Coryneum blight",
+        "desc": "Coryneum blight is a fungal disease that affects apricot trees. It causes leaves to turn yellow and brown and can also cause twig dieback. Infected fruit may develop sunken spots and turn brown. The fungus thrives in wet weather conditions and can spread rapidly in orchards.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Apricots",
+        "name": "Powdery mildew",
+        "desc": "Powdery mildew is a fungal disease that affects many types of fruit trees, including apricots. It causes white, powdery spots to appear on leaves, fruit, and shoots. Infected leaves may turn yellow and drop prematurely. The disease can spread rapidly in warm, humid conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Water Melon",
+        "name": "Fusarium wilt",
+        "desc": "Fusarium wilt is a fungal disease that affects watermelon plants. It causes wilting, yellowing, and stunting of the plant. Infected fruit may be small and misshapen. The fungus can survive in soil for several years and can spread rapidly through contaminated soil or plant material.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Water Melon",
+        "name": "Anthracnose",
+        "desc": "Anthracnose is a fungal disease that affects many types of fruit, including watermelon. It causes sunken, water-soaked spots to appear on fruit, which can later become covered in pink or black spores. Infected fruit may also crack or split. The disease can spread rapidly in warm, humid conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Water Melon",
+        "name": "Gummy stem blight",
+        "desc": "Gummy stem blight is a fungal disease that affects watermelon plants. It causes wilting and yellowing of leaves, as well as brown, sunken spots on fruit. Infected fruit may also develop a gummy, sticky substance on the surface. The fungus can survive in soil and plant debris for several years.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Water Melon",
+        "name": "Bacterial fruit blotch",
+        "desc": "Bacterial fruit blotch is a bacterial disease that affects watermelon plants. It causes water-soaked spots on fruit, which can later become sunken and covered in a slimy film. The bacteria can also cause wilting of leaves and shoots. The disease can spread rapidly in warm, humid conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucumber",
+        "name": "Downy Mildew",
+        "desc": "This disease is caused by the fungus Pseudoperonospora cubensis. The symptoms include yellow spots on the upper surface of leaves, and a white, fluffy growth on the undersides of leaves.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucumber",
+        "name": "Powdery Mildew",
+        "desc": "This disease is caused by the fungus Erysiphe cichoracearum. The symptoms include a white powdery growth on leaves, stems, and fruit, and yellowing of leaves.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucumber",
+        "name": "Bacterial Wilt",
+        "desc": "This disease is caused by the bacterium Erwinia tracheiphila. The symptoms include wilting, yellowing, and eventual death of leaves, and a dark discoloration of the vascular tissue.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucumber",
+        "name": "Anthracnose",
+        "desc": "This disease is caused by the fungus Colletotrichum orbiculare. The symptoms include water-soaked lesions on leaves, stems, and fruit, which later turn brown and sunken, with a red or pink border.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Melon",
+        "name": "Powdery Mildew",
+        "desc": "This disease is caused by the fungus Podosphaera xanthii. The symptoms include a white powdery growth on leaves, stems, and fruit, and yellowing of leaves.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Melon",
+        "name": "Fusarium Wilt",
+        "desc": "This disease is caused by the fungus Fusarium oxysporum f. sp. melonis. The symptoms include wilting, yellowing, and eventual death of leaves, and brown streaks in the vascular tissue.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Melon",
+        "name": "Anthracnose",
+        "desc": "This disease is caused by the fungus Colletotrichum lagenarium. The symptoms include water-soaked lesions on leaves, stems, and fruit, which later turn brown and sunken, with a red or pink border.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Melon",
+        "name": "Gummy Stem Blight",
+        "desc": "This disease is caused by the fungus Didymella bryoniae. The symptoms include brown, water-soaked lesions on leaves and stems, which later turn dark and dry, and a gummy exudate on the stem.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Grapes",
+        "name": "Downy mildew",
+        "desc": "Downy mildew is a fungal disease that affects the leaves, shoots, and fruit clusters of grapevines. It can cause yellowing and wilting of leaves, as well as the development of gray or brown patches on the leaves and fruit. Downy mildew can also reduce the yield and quality of the grapes.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Grapes",
+        "name": "Powdery mildew",
+        "desc": "Powdery mildew is a fungal disease that can infect the leaves, shoots, and fruit clusters of grapevines. It is characterized by a white or gray powdery coating on the leaves and fruit. Powdery mildew can cause the leaves to curl and distort, and can reduce the yield and quality of the grapes.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Grapes",
+        "name": "Black rot",
+        "desc": "Black rot is a fungal disease that can infect the leaves, shoots, and fruit clusters of grapevines. It can cause brown or black spots on the leaves and fruit, as well as the development of cankers on the wood of the vine. Black rot can reduce the yield and quality of the grapes, and can also cause the vine to die in severe cases.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Grapes",
+        "name": "Phomopsis cane and leaf spot",
+        "desc": "Phomopsis cane and leaf spot is a fungal disease that can infect the leaves and canes of grapevines. It can cause brown spots on the leaves, as well as the development of cankers on the canes. Phomopsis cane and leaf spot can reduce the yield and quality of the grapes, and can also weaken the vine.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Loquat",
+        "name": "Fire blight",
+        "desc": "Fire blight is a bacterial disease that can affect loquat trees. It can cause wilting and blackening of the leaves and shoots, as well as the development of cankers on the branches and trunk. Fire blight can reduce the yield and quality of the fruit, and can also cause the death of the tree in severe cases.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Loquat",
+        "name": "Brown rot",
+        "desc": "Brown rot is a fungal disease that can infect the fruit of loquat trees. It can cause the fruit to turn brown and rot, and can also cause the development of brown spots on the leaves. Brown rot can reduce the yield and quality of the fruit.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Loquat",
+        "name": "Phytophthora root and crown rot",
+        "desc": "Phytophthora root and crown rot is a fungal disease that can affect the roots and crown of loquat trees. It can cause the roots to rot, which can lead to wilting and death of the tree. Phytophthora root and crown rot can reduce the yield and quality of the fruit.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Loquat",
+        "name": "Leaf spot",
+        "desc": "Leaf spot is a fungal disease that can infect the leaves of loquat trees. It can cause brown or black spots on the leaves, which can lead to defoliation of the tree. Leaf spot can reduce the yield and quality of the fruit, and can also weaken the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peer",
+        "name": "Fire blight",
+        "desc": "A bacterial disease that affects the flowers, fruit, and branches of apple and pear trees. Symptoms include wilting, blackening of leaves and twigs, and oozing of bacterial slime from affected areas.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peer",
+        "name": "Pear scab",
+        "desc": "A fungal disease that affects the leaves, fruit, and twigs of pear trees. Symptoms include dark, scabby lesions on leaves and fruit, which can cause premature defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peer",
+        "name": "Pear rust",
+        "desc": "A fungal disease that affects the leaves and fruit of pear trees. Symptoms include small yellow or orange spots on leaves that grow into rust-colored pustules. The disease can cause premature defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Plum",
+        "name": "Plum pox virus",
+        "desc": "A viral disease that affects stone fruit trees, including plum, peach, and cherry. Symptoms include yellow or green ring spots on leaves, fruit, and twigs, as well as distorted fruit and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Plum",
+        "name": "Black knot",
+        "desc": "A fungal disease that affects the branches of plum and other stone fruit trees. Symptoms include black, warty growths on the branches, which can cause girdling and eventually death of the tree.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Plum",
+        "name": "Brown rot",
+        "desc": "A fungal disease that affects the fruit of plum and other stone fruit trees. Symptoms include brown, shriveled fruit with a velvety surface. The disease can cause significant yield loss if left untreated.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pomegranate",
+        "name": "Fruit rot",
+        "desc": "A fungal disease that affects the fruit of pomegranate trees. Symptoms include brown, shriveled fruit with a velvety surface. The disease can cause significant yield loss if left untreated.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pomegranate",
+        "name": "Leaf spot",
+        "desc": "A fungal disease that affects the leaves of pomegranate trees. Symptoms include circular, dark spots with yellow halos on the leaves. The disease can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pomegranate",
+        "name": "Bacterial blight",
+        "desc": "A bacterial disease that affects the leaves, branches, and fruit of pomegranate trees. Symptoms include wilting, blackening of leaves and twigs, and oozing of bacterial slime from affected areas.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pepper",
+        "name": "Bacterial spot",
+        "desc": "A bacterial disease that affects the leaves, fruit, and stems of pepper plants. Symptoms include water-soaked lesions on leaves and fruit, which can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pepper",
+        "name": "Anthracnose",
+        "desc": "A fungal disease that affects the leaves and fruit of pepper plants. Symptoms include circular, sunken lesions on leaves and fruit, which can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Pepper",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that affects the leaves and stems of pepper plants. Symptoms include white, powdery growth on the leaves and stems, which can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucurbits",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that affects the leaves, stems, and fruit of cucurbit plants such as squash, cucumber, and melons. Symptoms include white, powdery growth on the leaves and stems, which can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucurbits",
+        "name": "Downy mildew",
+        "desc": "A fungal disease that affects the leaves and fruit of cucurbit plants. Symptoms include yellow, angular lesions on the leaves, which can later turn brown or black, and downy growth on the undersides of leaves. The disease can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Cucurbits",
+        "name": "Cucumber mosaic virus",
+        "desc": "A viral disease that affects cucurbit plants, particularly cucumber. Symptoms include stunted growth, yellow mottling of leaves, and distorted or deformed fruit. The disease can cause significant yield loss.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Onion",
+        "name": "Fusarium basal rot",
+        "desc": "A fungal disease that affects the basal plate and roots of onion plants. Symptoms include yellowing and wilting of leaves, soft and watery decay of the basal plate, and dark brown or black discoloration of roots. The disease can cause significant yield loss.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Onion",
+        "name": "Purple blotch",
+        "desc": "A fungal disease that affects the leaves of onion plants. Symptoms include purple spots on the leaves, which can later turn brown with white centers. The disease can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Onion",
+        "name": "Thrips",
+        "desc": "A pest that affects onion plants. Symptoms include distorted or deformed leaves, yellowing and stunting of plants, and the presence of tiny, black insects on the leaves. Thrips can cause significant yield loss by transmitting viruses and feeding on plant tissue.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mung",
+        "name": "Yellow mosaic virus",
+        "desc": "A viral disease that affects mungbean plants. Symptoms include yellow mottling of leaves, stunted growth, and reduced yield. The disease is transmitted by whiteflies and can cause significant crop losses.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mung",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that affects mungbean plants. Symptoms include white, powdery growth on leaves, stems, and pods, which can cause defoliation and reduced yield. The disease is favored by warm, dry conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Mung",
+        "name": "Anthracnose",
+        "desc": "A fungal disease that affects mungbean plants. Symptoms include dark, sunken lesions on leaves, stems, and pods, which can cause premature defoliation and reduced yield. The disease is favored by warm, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarbeet",
+        "name": "Cercospora leaf spot",
+        "desc": "A fungal disease that affects sugarbeet plants. Symptoms include circular, grayish-brown lesions on leaves, which can coalesce to form large areas of necrosis. The disease can cause defoliation and reduced yield.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarbeet",
+        "name": "Rhizomania",
+        "desc": "A viral disease that affects sugarbeet plants. Symptoms include stunted growth, yellowing of leaves, and a proliferation of lateral roots, which can cause the characteristic 'bearded' appearance of affected plants. The disease can cause significant yield loss.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sugarbeet",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that affects sugarbeet plants. Symptoms include white, powdery growth on leaves, which can cause defoliation and reduced yield. The disease is favored by warm, dry conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peas",
+        "name": "Powdery mildew",
+        "desc": "A fungal disease that affects peas. Symptoms include white, powdery growth on leaves, stems, and pods, which can cause defoliation and reduced yield. The disease is favored by warm, dry conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peas",
+        "name": "Fusarium wilt",
+        "desc": "A fungal disease that affects peas. Symptoms include yellowing, wilting, and necrosis of the lower leaves, which can progress upwards and cause plant death. The disease is favored by warm, moist conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peas",
+        "name": "Pea leaf weevil",
+        "desc": "A pest that feeds on pea foliage, causing notching and holes in the leaves. Heavy infestations can cause defoliation and reduced yield. The adult weevils are grayish-brown and about 4mm long.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sunflower",
+        "name": "Downy mildew",
+        "desc": "A fungal disease that affects sunflowers. Symptoms include yellowing and wilting of leaves, which can cause premature defoliation and reduced yield. The disease is favored by cool, humid conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sunflower",
+        "name": "Sclerotinia stem rot",
+        "desc": "A fungal disease that affects sunflowers. Symptoms include water-soaked lesions on stems, which can become soft and girdle the stem, causing plant death. The disease is favored by cool, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Sunflower",
+        "name": "Sunflower moth",
+        "desc": "A pest that feeds on developing sunflower seeds, causing damage and reducing yield. The adult moths are brownish-gray and about 10mm long, and the larvae are yellowish-white with brown heads.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Soybean",
+        "name": "Soybean cyst nematode",
+        "desc": "A pest that attacks soybean roots, causing reduced root mass, stunting, and reduced yield. The nematodes are microscopic and can remain dormant in soil for years. Symptoms include yellowing, wilting, and premature defoliation.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Soybean",
+        "name": "Soybean mosaic virus",
+        "desc": "A viral disease that affects soybeans. Symptoms include mosaic or mottled patterns on leaves, stunted growth, and reduced yield. The virus is spread by aphids and infected seed.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Soybean",
+        "name": "Phytophthora root and stem rot",
+        "desc": "A fungal disease that affects soybeans. Symptoms include wilting, yellowing, and premature defoliation, as well as dark lesions on stems and roots. The disease is favored by warm, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peanuts",
+        "name": "Early leaf spot",
+        "desc": "A fungal disease that affects peanuts. Symptoms include circular, brown lesions with yellow halos on leaves, which can cause defoliation and reduced yield. The disease is favored by warm, humid conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peanuts",
+        "name": "Cylindrocladium black rot",
+        "desc": "A fungal disease that affects peanuts. Symptoms include blackening and rotting of roots, as well as yellowing and defoliation of leaves. The disease is favored by warm, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Peanuts",
+        "name": "Tomato spotted wilt virus",
+        "desc": "A viral disease that affects peanuts. Symptoms include yellowing, stunting, and necrosis of leaves, as well as reduced yield. The virus is spread by thrips.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice TRP",
+        "name": "Rice blast",
+        "desc": "A fungal disease that affects rice plants. Symptoms include small, diamond-shaped lesions on leaves, which can lead to premature senescence and reduced yield. The disease is favored by warm, humid conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice TRP",
+        "name": "Brown spot",
+        "desc": "A fungal disease that affects rice plants. Symptoms include small, circular lesions with brown centers and yellow halos on leaves, which can lead to defoliation and reduced yield. The disease is favored by warm, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice TRP",
+        "name": "Rice tungro disease",
+        "desc": "A viral disease that affects rice plants. Symptoms include stunted growth, yellowing of leaves, and reduced yield. The disease is spread by leafhoppers.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice nursery",
+        "name": "Bacterial leaf blight",
+        "desc": "A bacterial disease that affects rice seedlings. Symptoms include water-soaked lesions on leaves, which can lead to wilting and death of the seedling. The disease is favored by warm, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice nursery",
+        "name": "Rice hoja blanca virus",
+        "desc": "A viral disease that affects rice seedlings. Symptoms include white streaks on leaves, stunting, and reduced yield. The virus is spread by a planthopper.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice nursery",
+        "name": "Seedling rot",
+        "desc": "A fungal disease that affects rice seedlings. Symptoms include rotting of the seedling, which can lead to death. The disease is favored by cool, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice TP & DSR",
+        "name": "Blast",
+        "desc": "A fungal disease that affects rice plants. Symptoms include leaf and neck blast that can lead to yield loss. This disease is favored by high humidity, high temperature, and frequent rainfall.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice TP & DSR",
+        "name": "Brown plant hopper",
+        "desc": "A sap-sucking insect that affects rice plants. Symptoms include wilting and yellowing of leaves, stunting, and reduced yield. This pest is favored by cool, wet conditions.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Rice TP & DSR",
+        "name": "Stem rot",
+        "desc": "A fungal disease that affects rice plants. Symptoms include rotting of the stem at or below the water level, which can lead to lodging and reduced yield. This disease is favored by high soil moisture and warm temperatures.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Non-selective herbicides",
+        "name": "Glyphosate injury",
+        "desc": "Glyphosate is a non-selective herbicide that can cause injury to crops if not used properly. Symptoms include leaf yellowing, stunting, and necrosis. This injury is often mistaken for disease symptoms.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Non-selective herbicides",
+        "name": "Paraquat injury",
+        "desc": "Paraquat is a non-selective herbicide that can cause injury to crops if not used properly. Symptoms include leaf yellowing, necrosis, and plant death. This herbicide should be handled with care due to its toxicity.",
+        "images": [
+            "",
+            ""
+        ]
+    },
+    {
+        "crop": "Non-selective herbicides",
+        "name": "Glufosinate injury",
+        "desc": "Glufosinate is a non-selective herbicide that can cause injury to crops if not used properly. Symptoms include leaf yellowing, necrosis, and stunting. This herbicide is commonly used to control weeds in non-crop areas.",
+        "images": [
+            "",
+            ""
+        ]
+    }
+]
