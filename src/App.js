@@ -33,7 +33,7 @@ return (
                                         <Route exact path="/fertilizer/:crop" element={<Protected element={<Fertilizer></Fertilizer>} />} />
                                         <Route exact path="/pesticide/:crop" element={<Protected element={<Diseases></Diseases>} />} />
                                         <Route exact path="/openAll" element={<Protected element={<OpenAll></OpenAll>} />} />
-                                        <Route exact path="/You" element={<You></You>}></Route>
+                                        <Route exact path="/You" element={<Protected element={<You></You>}></Protected>}></Route>
                                         <Route path="/*" element={<h1>404 Page Not Found</h1>}></Route>
                                 </Routes>
                         </Router>

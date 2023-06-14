@@ -5,6 +5,7 @@ const userSchema=mongoose.Schema({
     username:String,
     phone:String,
     language:String,
+    password:String,
     crops:[String],
     firsttime:{
         type:Boolean,
@@ -12,9 +13,9 @@ const userSchema=mongoose.Schema({
     }
 })
 
-userSchema.statics.checkAuth=async function(phone,username)
+userSchema.statics.checkAuth=async function(username)
 {
-    let newuser=await this.where('phone').equals(phone).where('username').equals(username)
+    let newuser=await this.where('username').equals(username)
 
     if (newuser)
     {

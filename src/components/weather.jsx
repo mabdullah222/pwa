@@ -60,7 +60,7 @@ const Weather = ({ weatherData }) => {
         return (
                 <div>
                         <h1 class="font-family['Lato', sans-serif;] font-semibold text-2xl m-4 mb-1">Weather</h1>
-                        <div class="block box-border bg-gray-100 rounded shadow-md w-[93%] px-4 py-3 mx-3 ">
+                        <div class="block box-border bg-slate-200 rounded shadow-md px-4 py-3 mx-4 ">
                                 <p class="text-lg text-gray-700 mb-2">{data.name}, {day}  {date} {month}</p>
 
                                 <div class="flex justify-around items-center">
@@ -75,7 +75,7 @@ const Weather = ({ weatherData }) => {
 
                                 <div class="my-3 flex justify-between">
                                         <p class=" text-gray-600">Humidity: {data.main.humidity}</p>
-                                        <p class=" text-gray-600">Pressure: {data.main.pressure}</p>
+                                        <p class=" text-gray-600 mr-4">Pressure: {data.main.pressure}</p>
                                 </div>
                                 <hr class="m-2" />
                                 <p class=" text-gray-800">{data.weather[0].main}; {data.weather[0].description}</p>

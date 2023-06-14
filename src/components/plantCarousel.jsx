@@ -50,7 +50,7 @@ const PlantCarousel = () => {
                 />
                 <div
                     id="slider"
-                    className="flex flex-wrap gap-4 scroll h-full w-full overflow-x-scroll scroll-smooth whitespace-nowrap scrollbar-hide"
+                    className="flex flex-wrap gap-4 scroll h-full w-full overflow-x-scroll scroll-smooth whitespace-nowrap scrollbar-hide p-2"
                 >
                     <BiPlus
                         type="button"

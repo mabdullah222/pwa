@@ -17,12 +17,12 @@ const Menu = () => {
     }
 
     return (
-        <div className="m-4 h-[9rem] flex items-center p-3 gap-2 rounded-lg bg-slate-400">
-            <div onClick={() => {navigateMenu("fertilizer")}} className="w-[175px] h-full p-2 rounded-lg bg-white hover:bg-slate-100">
+        <div className="m-4 h-[9rem] flex items-center p-3 gap-2 rounded-lg bg-slate-300">
+            <div onClick={() => {a.selectedPlant?navigateMenu("fertilizer"):console.log("")}} className="w-[175px] h-full p-2 rounded-lg bg-white hover:bg-slate-100 cursor-pointer">
                 <GiFertilizerBag size={40} />
                 <h3>Fertilizer, Pesticides Calculator</h3>
             </div>
-            <div onClick={() => {navigateMenu("pesticide")}} className="w-[175px] h-full p-2 rounded-lg bg-white hover:bg-slate-100">
+            <div onClick={() =>{a.selectedPlant?navigateMenu("pesticide"):console.log("")}} className="w-[175px] h-full p-2 rounded-lg bg-white hover:bg-slate-100 cursor-pointer">
                 <MdOutlinePestControl size={40} />
                 <h3>Pests and Diseases</h3>
             </div>

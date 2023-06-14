@@ -55,7 +55,7 @@ const OpenAll = () => {
     
     return (
         <div className='h-full w-full p-3'>
-            <button onClick={() => goBack()} className='absolute top-3 right-2 w-[4rem] bg-slate-400 p-2 rounded-lg hover:bg-slate-700 hover:text-white transition duration-300 ease-in-out'>Back</button>
+            <button onClick={() => goBack()} className='absolute top-3 right-2 w-[4rem] bg-slate-200 p-2 rounded-lg hover:bg-slate-400 hover:text-white transition duration-300 ease-in-out'>Back</button>
 
             <div className='flex flex-wrap gap-4 w-90 bg-slate-100 rounded-lg'>
                 {data.map((crop) => {
